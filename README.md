@@ -20,7 +20,7 @@ https://github.com/new
 **Copy the git URL** of the newly created empty repository.
 (For me, it is: https://github.com/yigith/SimpleCrudWithAspNetCore2_2MvcAndEfCore2_2_6.git)
 
-Open** Team Explorer - Home** > **Sync** > **Push to Remote Repository**
+Open **Team Explorer - Home** > **Sync** > **Push to Remote Repository**
 
 Click on **Publish Git Repo**
 
